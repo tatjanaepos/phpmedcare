@@ -1,0 +1,87 @@
+:root {
+    --primary: #964040;
+    --light: #F8F8F8;
+    --dark: #252525;
+}
+
+
+h1,
+h2,
+.h1,
+.h2,
+.fw-bold {
+    font-weight: 600 !important;
+    color: rgb(16, 28, 67);
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3,
+h4,
+.h3,
+.h4,
+.fw-medium {
+    font-weight: 300 !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5,
+h6,
+.h5,
+.h6,
+.fw-normal {
+    font-weight: 400 !important;
+
+}
+
+#rezultat{
+    font-weight: 300 !important;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+#btnF{
+    color: black;
+    background-color: rgb(64, 144, 179);
+    border: 1px solid #5a5a5a;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+
+
+.navbar .navbar-nav .nav-link {
+    margin-right: 30px;
+    padding: 30px 0;
+    color: var(--dark);
+    font-weight: 400;
+    text-transform: uppercase;
+    outline: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.footerLogo
+{
+    background-image: url(../img/medical-background.png); 
+    height: 500px;
+    margin-top: -150px; 
+}
+
+.footerLogo1
+{
+    background-image: url(../img/medical-background.png);  
+    height: 500px;
+    margin-top: -150px;    
+}
+
+
+.form-control{
+    border-radius: 50px;
+    border-color: #777777;
+    font-weight: 200;
+    color: rgb(71, 67, 107);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
